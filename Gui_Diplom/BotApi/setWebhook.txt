@@ -1,2 +1,0 @@
-﻿https://api.telegram.org/bot8399461861:AAFiH8jOW8Gm-lpP0lV3hZARr0kQbh4Qdys/setWebhook?url=https://lynnette-meatier-preintelligently.ngrok-free.dev/api/telegram/update
-https://api.telegram.org/bot8399461861:AAFiH8jOW8Gm-lpP0lV3hZARr0kQbh4Qdys/deleteWebhook
